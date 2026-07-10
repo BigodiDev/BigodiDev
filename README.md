@@ -1,16 +1,24 @@
-## Hi there 👋
+![header](assets/header.png)
 
-<!--
-**BigodiDev/BigodiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">I am 🥸</h1>
+<a href="https://github.com/BigodiDev"></a>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img height="25" src="https://komarev.com/ghpvc/?username=BigodiDev&color=blueviolet" alt="Profile Views"/>
+  <img height="25" src="https://img.shields.io/github/followers/BigodiDev&color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
+  <img height="25" src="https://img.shields.io/github/stars/BigodiDev?color=f429ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,next,nodejs,html,css,go"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-read-me-stats.vercel.app/api/?username=BigodiDev&title_color=674fc9&text_color=9f9f9f&show_icons=true&bg_color00000000&hide_border=true&icon_color=674fc9&hide_title=true&count_private=true"
+/>
+
+![footer](assets/footer.png)
