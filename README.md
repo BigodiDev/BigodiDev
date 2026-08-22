@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,next,nodejs,html,css,go"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,nodejs,html,css,c#"/>
 </p>
 
 <br>
